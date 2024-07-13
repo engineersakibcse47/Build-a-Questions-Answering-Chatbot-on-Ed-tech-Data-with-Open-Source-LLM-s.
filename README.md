@@ -4,15 +4,15 @@
 
 - Use a real CSV file of FAQs that Codebasics company is using right now. 
 - Their human staff will use this file to assist their course learners.
-- We will build an LLM based question and answer system that can reduce the workload of their human staff.
+- I build an LLM based question and answer system that can reduce the workload of their human staff.
 - Students should be able to use this system to ask questions directly and get answers within seconds
 
 ## Project Structure
 
-main.py: The main Streamlit application script.
-langchain_helper.py: This has all the langchain code
-requirements.txt: A list of required Python packages for the project.
-.env: Configuration file for storing Google API key.
+- main.py: The main Streamlit application script.
+- langchain_helper.py: This has all the langchain code
+- requirements.txt: A list of required Python packages for the project.
+- .env: Configuration file for storing Google API key.
 
 ## Usage
 
